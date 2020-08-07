@@ -1,0 +1,11 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-logo="POSTER" group-title="SERIE", O homem do castelo alto t-1 E-1
+https://d3hcyf98g4mn0i.cloudfront.net/d/RCServer08/ondemand/OHMEMDCSTLALTOT01EP01.mp4?attachment=true
+#EXTINF:-1 tvg-logo="POSTER" group-title="SERIE", O homem do castelo alto t-1 E-2
+https://d3hcyf98g4mn0i.cloudfront.net/d/RCServer08/ondemand/OHMEMDCSTLALTOT01EP02.mp4?attachment=true
+#EXTINF:-1 tvg-logo="POSTER" group-title="SERIE", O homem do castelo alto t-1 E-3
+https://d3hcyf98g4mn0i.cloudfront.net/d/RCServer08/ondemand/OHMEMDCSTLALTOT01EP03.mp4?attachment=true
+#EXTINF:-1 tvg-logo="POSTER" group-title="SERIE", O homem do castelo alto t-1 E-4
+https://d3hcyf98g4mn0i.cloudfront.net/d/RCServer08/ondemand/OHMEMDCSTLALTOT01EP04.mp4?attachment=true
+  
